@@ -12,7 +12,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 5. **Bleach**
 6. **Hunter x Hunter (2011)**
 7. **Legend of the Galactic Heroes**
-8. **Kaguya-sama: Love Is War**
+8. **Your lie in April**
 9. **March Comes in Like a Lion**
 10. **Clannad**
 11. **Bungou Stray Dogs**
