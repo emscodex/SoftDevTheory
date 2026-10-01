@@ -15,3 +15,4 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 8. **Kaguya-sama: Love Is War**
 9. **March Comes in Like a Lion**
 10. **Clannad**
+11. **Bungou Stray Dogs**
