@@ -6,7 +6,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 
 # Top 10 Japanese Food
 1. Ramen
-2. Tori teriyaki
+2. Tamago sando
 3. Takoyaki
 4. Onigiri
 5. Udon
